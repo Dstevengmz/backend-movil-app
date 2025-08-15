@@ -1,1 +1,1 @@
-web: cd Backendmercadolibre && npm install && npm start
+web: npm install && npm start
